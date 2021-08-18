@@ -1,5 +1,0 @@
-{
-    "python.pythonPath": "E:\\tensorflow_env\\Scripts\\python.exe",
-    "jupyter.jupyterServerType": "local",
-    "python.formatting.provider": "black"
-}
