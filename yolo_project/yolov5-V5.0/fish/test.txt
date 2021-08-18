@@ -1,0 +1,12 @@
+/pytorch_project/yolov5/fish/images/train2017/0047.jpg
+/pytorch_project/yolov5/fish/images/train2017/0018.jpg
+/pytorch_project/yolov5/fish/images/train2017/0108.jpg
+/pytorch_project/yolov5/fish/images/train2017/0059.jpg
+/pytorch_project/yolov5/fish/images/train2017/0016.jpg
+/pytorch_project/yolov5/fish/images/train2017/0079.jpg
+/pytorch_project/yolov5/fish/images/train2017/0087.jpg
+/pytorch_project/yolov5/fish/images/train2017/0095.jpg
+/pytorch_project/yolov5/fish/images/train2017/0054.jpg
+/pytorch_project/yolov5/fish/images/train2017/0085.jpg
+/pytorch_project/yolov5/fish/images/train2017/0089.jpg
+/pytorch_project/yolov5/fish/images/train2017/0096.jpg
